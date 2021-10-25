@@ -1,4 +1,4 @@
-# Virtual-Drum# Sleep-Prevention
+# Virtual-Drum
 A program using your device's webcam to track your fingertip as a drumstick and you'll be able to play the drum virtually through the video from your webcam.
 ### 1. Clone the project
 You'll first need to clone this project by running the following command  
